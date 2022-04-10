@@ -1,3 +1,4 @@
+//Solução para ifs encadeados é o comando Switch.
 
 public class TesteComandoSwitch {
 	public static void main(String[] args) {
